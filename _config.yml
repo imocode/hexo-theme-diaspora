@@ -29,7 +29,7 @@ gitalk:
     # 应用编号
     clientID: '387adc6203e0537273c2'
     # 应用秘钥
-    clientSecret: '1a2cf8b47eb4031bc12ac90de035e2000b7e59c0'
+    clientSecret: ''
     # issue仓库名
     repo: 'iout.io'
     # Github名

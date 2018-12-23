@@ -27,7 +27,7 @@ gitalk:
     # 是否自动展开评论框
     autoExpand: true
     # 应用编号
-    clientID: '387adc6203e0537273c2'
+    clientID: ''
     # 应用秘钥
     clientSecret: ''
     # issue仓库名
